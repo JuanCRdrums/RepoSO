@@ -1,0 +1,6 @@
+10,Placard1,holi1
+11,Placard2,holi2
+12,Placard3,holi3
+13,Placard4,holi4
+14,Placard5,holi5
+15,Placard6,holi6

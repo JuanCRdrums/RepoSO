@@ -1,0 +1,10 @@
+K234,Placard1,100,Muebles amistad
+K234,Placard2,100,Muebles amistad
+K234,Placard3,100,Muebles amistad
+K234,Placard4,100,Muebles amistad
+K234,Placard5,100,Muebles amistad
+K235,Placard1,101,Muebles amistad x 2
+K235,Placard2,101,Muebles amistad x 2
+K235,Placard3,101,Muebles amistad x 2
+K236,Placard1,102,Muebles amistad x 3
+K236,Placard2,102,Muebles amistad x 3
