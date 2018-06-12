@@ -1,6 +1,0 @@
-Sandra-email;2;123
-Sandra-gmail;4;434
-Sandra-chrome;25;7845
-Guido-maps;2;456
-Adrian-facebook;3;567
-Sandra-exchange;3;678
