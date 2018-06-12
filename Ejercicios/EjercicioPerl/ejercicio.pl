@@ -15,4 +15,7 @@ while($linea = <ENTRADA>)
 
 opendir(DIR,'datos');
 @dir = readdir(DIR);
-print "$dir[2]\n";
+foreach $f (@dir)
+{
+  
+}
